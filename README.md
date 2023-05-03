@@ -4,7 +4,26 @@
 Here is a better way to write it:
 
 This app is a task management system developed using ReactJS, NodeJS, ExpressJS, and MySQL.
-To run the application from the front-end, use #npm start. To run the backend of the application, use "node" and 
-#npm start. 
-If you want to use nodemon, then run it using 
-#npm run dev
+ use
+ 
+
+
+
+
+
+
+
+
+
+To run the application from the front-end,
+ # npm start  
+ 
+   and 
+ To run the backend of the application, use "nodemon".
+ # npm run dev  
+
+To run the backend of the application, use "node".
+# npm start
+
+
+
